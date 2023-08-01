@@ -101,6 +101,19 @@ height: 60px;
        ScratchやWebSiteを作っていますその他にもいろいろな事をしてます
      </a>
    </center>
+    <p>現在時刻は<span id="real-time"></span>です</p>
+
+  <script>
+function Time() {
+   var realTime = new Date();
+   var hour = realTime.getHours();
+   var minutes  = realTime.getMinutes();
+   var seconds  = realTime.getSeconds();
+   var text = hour + ":" + minutes + ":" + seconds;
+   document.getElementById("real-time").innerHTML = text;
+}
+setInterval('Time()',1000);
+  </script>
 <link rel=”icon” href="favicon.ico”>
   <meta name="msapplication-square70x70logo" content="/site-tile-70x70.png">
 <meta name="msapplication-square150x150logo" content="/site-tile-150x150.png">
