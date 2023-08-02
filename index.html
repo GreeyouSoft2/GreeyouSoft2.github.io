@@ -13,11 +13,62 @@
      3D迷路
   </a>
     </a>
+    <div class="drawer">        
+      <input type="checkbox" name="navToggle" id="navToggle" class="nav-toggle">
+      <label for="navToggle" class="btn-burger">
+        <span class="icon"></span>            
+      </label> 
+    </div>    
 </nav>
  <html>
   <title>GS - Home</title>
 <style>
+body {
+  margin: 0;
+  padding: 0;
+}
 
+/*ヘッダー*/
+header {
+    position: relative;
+    padding: 15px 0 0 0px;
+    background-color: #fff;
+}
+.logo {
+    width: 140px;
+    margin: 0 auto;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+/*ハンバーガーアイコン*/
+.btn-burger {
+    cursor: pointer;
+    display: block;
+    width: 56px;
+    height: 60px;
+    position: absolute;
+    top: 5px;
+    right: 10px;
+}
+
+/*ハンバーガーアイコンを作る三本線*/
+.icon, .icon:before, .icon:after {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    height: 2px; /*線の太さ*/
+    width: 35px; /*線の長さ*/
+    background-color: #444;
+    border-radius: 2px;
+    display: block;
+    content: '';
+    cursor: pointer;
   
 .class1{
   width: 47px;
