@@ -5,6 +5,10 @@
     width:95px;
     height:95px;
    }
+ class{
+  top: -40px;
+   margin: 300px -110 -110 300px;
+ }
 }
 
 .class1{
