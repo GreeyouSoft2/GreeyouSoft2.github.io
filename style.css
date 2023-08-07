@@ -1,7 +1,10 @@
  @import url('https://fonts.googleapis.com/css2?family=REM:ital,wght@1,800&display=swap');
 
 @media (max-width:600px) {
-   
+   img{
+    width:95px;
+    height:95px;
+   }
 }
 
 .class1{
