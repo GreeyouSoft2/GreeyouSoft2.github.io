@@ -14,12 +14,16 @@
   width:230px;
  }
  html{
-  height:350px;
+  height:250px;
   width:260px;
  }
  h1{
-   font-size:57px;
-  top:43px;
+   font-size:77px;
+  top:73px;
+  left: -40px;
+ }
+ q{
+  font-size:99px;
  }
 }
 
