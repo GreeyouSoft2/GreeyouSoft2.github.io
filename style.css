@@ -4,10 +4,13 @@
    img{
     width:95px;
     height:95px;
+    text-align: center;
    }
  class{
-  top: -40px;
-   margin: 300px -110 -110 300px;
+  text-align: left;
+ }
+ nav{
+  width:230px;
  }
 }
 
