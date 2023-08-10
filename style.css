@@ -115,5 +115,9 @@ height: 60px;
   top: 23%;
   text-align: center;
   margin: -25px 0 0 -25px;
+ text-shadow:  0 0 10px #fff,
+   0 0 10px #fff,
+   0 0 10px #fff,
+  
 }
 
