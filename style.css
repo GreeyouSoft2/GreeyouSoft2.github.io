@@ -134,21 +134,26 @@ height: 60px;
 #Home{
  width: 15px;
  height: 29px;
+ visibility:visible
 }
 #Scratch{
  width:18px;
  height: 26px;
+ visibility:visible
 }
 #Twitter{
  width: 25px;
  height:29px;
+ visibility:visible
 }
 #3DM{
  width:12px;
  height:17px;
+ visibility:visible
 }
 #search{
  width:17px;
  height:19px;
+ visibility:visible
 }
 
