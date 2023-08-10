@@ -107,13 +107,14 @@ height: 60px;
     top:34%;
   }
 #Blog{
-  background: blue;
+  background: sky blue;
  color: white;
  width: 150px;
   height: 50px;
   position: absolute;
   top: 23%;
   text-align: center;
-  margin: 230px 0 0 230px;
+  margin: 470px 0 0 470px;
+ border-radius: 40px;
 }
 
