@@ -118,8 +118,12 @@ height: 60px;
  border-radius: 12px;
 }
 #Home{
- width: 10px;
+ width: 15px;
  height: 29px;
+}
+#Scratch{
+ width:18px;
+ height: 26px;
 }
 #Twitter{
  width: 25px;
