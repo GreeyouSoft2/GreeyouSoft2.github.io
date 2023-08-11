@@ -5,13 +5,14 @@
     width:95px;
     height:95px;
     text-align: center;
+   margin: -25px 0 0 -25px;
    }
  class{
   text-align: left;
   position:  left;
   width:39px;
   height:46px;
-  margin: -25px -12 -12 -25px;
+  margin: -50px -12 -12 -50px;
  }
  nav{
   width:230px;
