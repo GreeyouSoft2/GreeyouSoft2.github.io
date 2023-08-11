@@ -132,6 +132,7 @@ height: 60px;
   height: 50px;
   position: absolute;
   top: 23%;
+  margin: -32px -18 -18 -32px;
  border-radius: 12px;
 }
 #Home{
