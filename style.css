@@ -1,7 +1,7 @@
  @import url('https://fonts.googleapis.com/css2?family=REM:ital,wght@1,800&display=swap');
 
 @media (max-width:600px) {
-   img{
+  nav-img{
     width:95px;
     height:95px;
     text-align: center;
@@ -9,9 +9,9 @@
  class{
   text-align: left;
   position:  left;
-  width:29px;
-  height:34px;
-  margin: -25px 0 0 -25px;
+  width:39px;
+  height:46px;
+  margin: -25px -12 -12 -25px;
  }
  nav{
   width:230px;
