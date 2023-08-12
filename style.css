@@ -61,7 +61,11 @@
  }
  .page-header{
   width:600px;
-  height:120px;
+  height:250px;
+ }
+ main-nav{
+  left:450px;
+
  }
 }
 
@@ -111,7 +115,7 @@ display: flex;
 .page-header{
   background:#E1E1E0;
   position: block;
-  width:1350px;
+  width:1470px;
  display: flex;
  justify-content: space-between;
 }
