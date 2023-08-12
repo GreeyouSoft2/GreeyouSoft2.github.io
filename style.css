@@ -91,8 +91,12 @@ height: 60px;
     opacity: 1;
   }
 }
-class{
- 
+.main-nav{
+display: flex;
+}
+.page-header{
+ display: flex;
+ justify-content: space-between;
 }
   .a1{
  margin: 150px -197 -197 150px;
