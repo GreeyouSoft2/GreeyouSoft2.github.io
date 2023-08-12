@@ -91,6 +91,9 @@ height: 60px;
     opacity: 1;
   }
 }
+class{
+ 
+}
   .a1{
  margin: 150px -197 -197 150px;
   text-decoration: none;
@@ -131,6 +134,7 @@ height: 60px;
  width: 150px;
   height: 50px;
   position: absolute;
+ padding: 25px;
   top: 23%;
   margin: 32px 45 45 32px;
  border-radius: 12px;
