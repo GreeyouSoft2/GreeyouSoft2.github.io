@@ -65,7 +65,8 @@
  }
  main-nav{
   left:450px;
-  margin: -43px 54 54 -43px;
+  vertical-align: bottom;
+  top:190px;
  }
 }
 
