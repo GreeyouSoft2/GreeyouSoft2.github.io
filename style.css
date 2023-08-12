@@ -59,6 +59,10 @@
  #search{
   visibility:visible
  }
+ .page-header{
+  width:600px;
+  height:120px;
+ }
 }
 
 .class1{
