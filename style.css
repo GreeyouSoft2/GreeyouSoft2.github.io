@@ -1,5 +1,3 @@
- @import url('https://fonts.googleapis.com/css2?family=REM:ital,wght@1,800&display=swap');
-
 @media (max-width:600px) {
   nav-img{
     width:450px;
@@ -64,7 +62,7 @@
   height:250px;
  }
  main-nav{
-  left:450px;
+ text-align: left;
   vertical-align: bottom;
   top:190px;
  }
