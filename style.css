@@ -44,6 +44,21 @@
  .a5{
   visibility: hidden;
  }
+ #Home{
+  visibility:visible
+ }
+ #Scratch{
+  visibility:visible
+ }
+ #Twitter{
+  visibility:visible
+ }
+ #Maze{
+  visibility:visible
+ }
+ #search{
+  visibility:visible
+ }
 }
 
 .class1{
