@@ -60,7 +60,7 @@ html{
   width:680px;
   height:240px;
 } 
-nav{
+.page-header{
  background:#E1E1E0;
   position: block;
   width:1200px;
