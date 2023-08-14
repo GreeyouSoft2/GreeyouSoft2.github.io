@@ -121,6 +121,7 @@ display: flex;
   background:#E1E1E0;
   position: block;
  display: flex;
+   width:1450px;
  justify-content: space-between;
 }
   .a1{
