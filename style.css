@@ -121,7 +121,6 @@ display: flex;
 .page-header{
   background:#E1E1E0;
   position: block;
-  width:1450px;
  display: flex;
  justify-content: space-between;
 }
