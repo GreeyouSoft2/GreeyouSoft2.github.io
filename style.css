@@ -146,7 +146,7 @@ display: flex;
     font-size:40px;
     top:34%;
   }
-#Blog{
+.button{
   background: skyblue;
  color: white;
  width: 150px;
