@@ -8,10 +8,10 @@
  .main-nav{
   text-align: left;
   position:  left;
-  width:39px;
-  height:46px;
+  width:98px;
+  height:109px;
   margin: -50px -12 -12 -50px;
-   flex-direction: column;
+   flex-direction: row;
    align-items: center;
  }
  nav{
