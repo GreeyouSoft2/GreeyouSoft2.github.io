@@ -43,19 +43,29 @@
   visibility: hidden;
  }
  #Home{
-  visibility:visible
+  visibility:visible;
+    width: 90px;
+   height: 108px;
  }
  #Scratch{
-  visibility:visible
+  visibility:visible;
+    width: 90px;
+   height: 108px;
  }
  #Twitter{
-  visibility:visible
+  visibility:visible;
+    width: 90px;
+   height: 108px;
  }
  #Maze{
-  visibility:visible
+  visibility:visible;
+    width: 90px;
+   height: 108px;
  }
  #search{
-  visibility:visible
+  visibility:visible;
+   width: 90px;
+   height: 108px;
  }
  .page-header{
   width:600px;
