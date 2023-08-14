@@ -115,7 +115,7 @@ height: 60px;
   }
 }
 .main-nav{
-display: flex;
+display: inline;
 }
 .page-header{
   background:#E1E1E0;
