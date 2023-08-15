@@ -1,7 +1,7 @@
 @media (max-width:600px) {
   nav-img{
-    width:1200px;
-    height:1070px;
+    width:4200px;
+    height:5070px;
     text-align: center;
    }
  .main-nav{
@@ -50,25 +50,25 @@
   visibility:visible;
     width: 290px;
    height: 318px;
-   display:flex;
+   display: flex;
  }
  #Scratch{
   visibility:visible;
      width: 290px;
    height: 318px;
-   display:flex;
+   display: flex;
  }
  #Twitter{
   visibility:visible;
     width: 290px;
    height: 318px;
-   display:flex;
+   display: flex;
  }
  #Maze{
   visibility:visible;
     width: 290px;
    height: 318px;
-   display:flex;
+   display: flex;
  }
  #search{
   visibility:visible;
@@ -80,10 +80,10 @@
     top:90px;
   }
   .class2{
-    top:90px;
+    top:140px;
   }
   .button{
-    left:90px;
+    left:30px;
   }
 }
 
