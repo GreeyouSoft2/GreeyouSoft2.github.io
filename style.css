@@ -71,6 +71,16 @@
     width: 290px;
    height: 318px;
  }
+  .class1{
+    top:90px;
+  }
+  .class2{
+    top:90px;
+  }
+  .button{
+    left:90px;
+
+  }
 }
 
 .class1{
