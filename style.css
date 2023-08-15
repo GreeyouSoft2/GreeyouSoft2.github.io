@@ -50,26 +50,31 @@
   visibility:visible;
     width: 290px;
    height: 318px;
+   display:flex;
  }
  #Scratch{
   visibility:visible;
      width: 290px;
    height: 318px;
+   display:flex;
  }
  #Twitter{
   visibility:visible;
     width: 290px;
    height: 318px;
+   display:flex;
  }
  #Maze{
   visibility:visible;
     width: 290px;
    height: 318px;
+   display:flex;
  }
  #search{
   visibility:visible;
     width: 290px;
    height: 318px;
+   display:flex;
  }
   .class1{
     top:90px;
@@ -79,7 +84,6 @@
   }
   .button{
     left:90px;
-
   }
 }
 
