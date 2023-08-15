@@ -10,9 +10,11 @@
   width:98px;
   height:109px;
   margin: -50px -12 -12 -50px;
-   flex-direction: row;
-   align-items: center;
  }
+  .page-header{
+     flex-direction: column;
+   align-items: center;
+  }
  nav{
   width:230px;
  }
