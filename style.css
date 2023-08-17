@@ -7,10 +7,12 @@
  .main-nav{
   text-align: left;
   position:  left;
+   width:120px;
+   height:87px;
  }
   .page-header{
-    width:auto;
-  height:auto;
+    width:600px;
+   height:250px;
      flex-direction: column;
    align-items: center;
   }
@@ -129,7 +131,7 @@ height: 60px;
   background:#E1E1E0;
   position: block;
  display: flex;
-   width:1450px;
+   width:auto;
  justify-content: space-between;
 }
   .a1{
@@ -169,7 +171,7 @@ height: 60px;
   position: absolute;
  padding: 25px;
   top: 23%;
-  margin: -150px 20 20 -120px;
+  margin: -250px 10 10 -250px;
  border-radius: 12px;
 }
 #Home{
