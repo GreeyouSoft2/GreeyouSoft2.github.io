@@ -178,26 +178,31 @@ height: 60px;
 #Home{
  width: 19px;
  height: 29px;
- visibility:visible
+ visibility:visible;
+  border-radius: 24px;
 }
 #Scratch{
  width:24px;
  height: 26px;
- visibility:visible
+ visibility:visible;
+  border-radius: 24px;
 }
 
 #Twitter{
  width: 25px;
  height:29px;
- visibility:visible
+ visibility:visible;
+  border-radius: 24px;
 }
 #Maze{
  width:12px;
  height:17px;
- visibility:visible
+ visibility:visible;
+  border-radius: 24px;
 }
 #search{
  width:17px;
  height:19px;
- visibility:visible
+ visibility:visible;
+  border-radius: 24px;
 }
