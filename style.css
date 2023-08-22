@@ -32,33 +32,18 @@
   font-size:99px;
  }
  .a1{
-  visibility: hidden;
+  visibility: visible;
  }
 .a2{
- visibility: hidden;
-}
- .a3{
-  visibility: hidden;
- }
- .a4{
-  visibility: hidden;
- }
- .a5{
-  visibility: hidden;
- }
-   .a1:hover{
-  visibility: visible;
- }
-.a2:hover{
  visibility: visible;
 }
- .a3:hover{
+ .a3{
   visibility: visible;
  }
- .a4:hover{
+ .a4{
   visibility: visible;
  }
- .a5:hover{
+ .a5{
   visibility: visible;
  }
  #Home{
@@ -91,36 +76,7 @@
    height: 318px;
    display:flex;
  }
-   #Home:hover{
-  visibility:hidden;
-    width: 290px;
-   height: 318px;
-   display: flex;
- }
- #Scratch:hover{
-  visibility:hidden;
-     width: 290px;
-   height: 318px;
-   display: flex;
- }
- #Twitter:hover{
-  visibility:hidden;
-    width: 290px;
-   height: 318px;
-   display: flex;
- }
- #Maze:hover{
-  visibility:hidden;
-    width: 290px;
-   height: 318px;
-   display: flex;
- }
- #search:hover{
-  visibility:hidden;
-    width: 290px;
-   height: 318px;
-   display:flex;
- }
+  
   .class1{
     top:90px;
   }
