@@ -46,6 +46,21 @@
  .a5{
   visibility: hidden;
  }
+   .a1:hover{
+  visibility: visible;
+ }
+.a2:hover{
+ visibility: visible;
+}
+ .a3:hover{
+  visibility: visible;
+ }
+ .a4:hover{
+  visibility: visible;
+ }
+ .a5:hover{
+  visibility: visible;
+ }
  #Home{
   visibility:visible;
     width: 290px;
@@ -72,6 +87,36 @@
  }
  #search{
   visibility:visible;
+    width: 290px;
+   height: 318px;
+   display:flex;
+ }
+   #Home:hover{
+  visibility:hidden;
+    width: 290px;
+   height: 318px;
+   display: flex;
+ }
+ #Scratch:hover{
+  visibility:hidden;
+     width: 290px;
+   height: 318px;
+   display: flex;
+ }
+ #Twitter:hover{
+  visibility:hidden;
+    width: 290px;
+   height: 318px;
+   display: flex;
+ }
+ #Maze:hover{
+  visibility:hidden;
+    width: 290px;
+   height: 318px;
+   display: flex;
+ }
+ #search:hover{
+  visibility:hidden;
     width: 290px;
    height: 318px;
    display:flex;
