@@ -1,0 +1,12 @@
+body,header{
+    background: #808086;
+    border-bottom: solid gray;
+}
+body,header,h1,img{
+    width: 68px;
+    height: 68px;
+}
+body,header,nav,ul,a{
+    color: black;
+    margin-left: auto;
+}
