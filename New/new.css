@@ -10,3 +10,19 @@ body,header,nav,ul,a{
     color: black;
     margin-left: auto;
 }
+#homelogo{
+    width: 54px;
+    height: 45px;
+}
+.scratch{
+    width: 67px;
+    height: 67px;
+}
+#x{
+    width: 54px;
+    height: 54px;
+}
+#search{
+    width: 57px;
+    height: 57px;
+}
