@@ -17,8 +17,9 @@
   .page-header{
     width:auto;
    height:90px;
-     flex-direction: column;
+     text-align:center;
    align-items: center;
+    position: center
   }
  nav{
   width:230px;
