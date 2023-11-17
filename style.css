@@ -1,12 +1,12 @@
 @media (max-width:600px) {
   nav-img{
-    width:4200px;
-    height:5070px;
+    width:auto;
+    height:4em;
     text-align: center;
    }
  .main-nav{
-  text-align: left;
-  position:  left;
+  text-align: center;
+  position:  center;
    width:120px;
    height:87px;
  }
