@@ -1,4 +1,8 @@
 @media (max-width:600px) {
+  html{
+    width:auto;
+    height:auto;
+  }
   nav-img{
     width:auto;
     height:4em;
@@ -99,7 +103,7 @@
 }
 html{
  background: #DDFFDD;
-  height:240px;
+  height:auto;
 }
 img{
  width: 150px;
