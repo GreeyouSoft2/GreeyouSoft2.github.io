@@ -15,8 +15,8 @@
    height:87px;
  }
   .page-header{
-    width:600px;
-   height:250px;
+    width:auto;
+   height:90px;
      flex-direction: column;
    align-items: center;
   }
