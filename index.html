@@ -93,6 +93,12 @@
 <link rel="icon" type="png" sizes="24x24" href="/icon-24x24.png">
 <link rel="icon" type="png" sizes="32x32" href="/icon-32x32.png">
 <link rel="manifest" href="/manifest.json">
+      <script>
+        // JavaScriptでユーザーエージェントを確認してリダイレクト
+        if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+            window.location.href = 'http://モバイル用サイトのURL';
+        }
+    </script>
    </head>
    <center>
 <center class="class1">
