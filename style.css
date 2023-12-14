@@ -16,7 +16,7 @@
  }
   .page-header{
     width:auto;
-   height:90px;
+   height:40px;
      text-align:center;
    align-items: center;
     position: center
@@ -101,9 +101,10 @@
   left: 45%;
   margin: -25px 0 0 -25px;
   animation: slideIn 1s cubic-bezier(0.25, 1, 0.5, 1) 1 forwards;
+  font-family: 'Noto Sans JP' 
 }
 html{
- background: #DDFFDD;
+ background: white;
   height:auto;
 }
 img{
