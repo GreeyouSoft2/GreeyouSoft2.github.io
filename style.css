@@ -135,7 +135,8 @@ height: 3em;
 }
 
 .page-header{
-  background:#E1E1E0;
+  background: white;
+  border-bottom: solid 1px gray;
   position: block;
  display: flex;
    width:auto;
