@@ -119,6 +119,7 @@ height: 3em;
   left:15%;
   margin: -25px 0 0 -25px;
   animation: slideIn 1s cubic-bezier(0.25, 1, 0.5, 1) 1 forwards;
+  font-family: 'Noto Sans JP' sans-serif;
 }
  
 @keyframes slideIn {
