@@ -172,15 +172,26 @@ height: 3em;
     font-size:40px;
     top:34%;
   }
+.nav-button{
+  backgroun: skyblue;
+  color: white;
+  width: 4em;
+  height:2em;
+  position: absolute;
+  text-align: center;
+  padding: 15em;
+  border-radius: 9em;
+  right:1em;
+}
 .button{
   background: skyblue;
  color: white;
- width: 150px;
-  height: 50px;
+ width: 4em;
+  height: 2em;
   position: absolute;
   text-align: center;
- padding: 25px;
-  top: 43em;
+ padding: 15em;
+  bottom: 20em;
   right:19em;
  border-radius: 12px;
 }
