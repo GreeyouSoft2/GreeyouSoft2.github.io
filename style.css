@@ -190,10 +190,10 @@ height: 3em;
   height: 2em;
   position: absolute;
   text-align: center;
- padding: 5em;
+ padding: 4em 2em;
   bottom: 3em;
   right:19em;
- border-radius: 12px;
+ border-radius: 4em;
 }
 #Home{
  width: 19px;
