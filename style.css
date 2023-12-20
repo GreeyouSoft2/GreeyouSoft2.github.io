@@ -173,7 +173,7 @@ height: 3em;
     top:34%;
   }
 .blog-button{
-  backgroun: skyblue;
+  background: skyblue;
   color: white;
   width: 4em;
   height:2em;
@@ -190,9 +190,9 @@ height: 3em;
   height: 2em;
   position: absolute;
   text-align: center;
- padding: 1em 1em;
-  bottom: 15em;
-  right:15em;
+ padding: 1.5em 2.4em;
+  bottom: 17.9em;
+  right:17em;
  border-radius: 1em;
 }
 #Home{
