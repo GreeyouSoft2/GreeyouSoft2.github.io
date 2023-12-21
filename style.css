@@ -175,12 +175,12 @@ height: 3em;
 .blog-button{
   background: skyblue;
   color: white;
-  width: 4em;
+  width: 2em;
   height:2em;
   position: absolute;
   text-align: center;
-  padding: 1.5em 2em;
-  border-radius: 9em;
+  padding: 1.5em 3em;
+  border-radius: 1em;
   right:1em;
 }
 .button{
@@ -190,9 +190,9 @@ height: 3em;
   height: 2em;
   position: absolute;
   text-align: center;
- padding: 1.5em 2em;
-  bottom: 17.9em;
-  right:17em;
+ padding: 1.5em 3em;
+  top: 15.8em;
+  left:16em;
  border-radius: 1em;
 }
 #Home{
