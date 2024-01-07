@@ -1,0 +1,19 @@
+name: Auto Pull-Request Site Create
+
+on:
+  pull_request:
+    types: [opened]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Build site
+        run: |
+      - name: Auto Pull-Request Site Create
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: https://beta.greeyousoft.f5.si
